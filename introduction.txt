@@ -1,0 +1,10 @@
+Brief Introduction About Myself
+
+My name is Delassie Ohene and I am a tech enthusiast based in Accra, Ghana. 
+I have great passion for technology and I am currently learning how to use 
+GitHub to manage my projects and collaborate with others.
+
+
+I enjoy building web applications and solving problems through code. 
+In my free time, I love reading tech blogs and exploring new tools 
+that help improve my workflow.
