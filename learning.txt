@@ -1,0 +1,4 @@
+So far in this course, I have learned how to create a GitHub repository, 
+make commits, work with branches, open pull requests, and collaborate 
+by forking repositories. These are fundamental skills for version control 
+and teamwork in software development.
